@@ -1,3 +1,7 @@
+---
+id: 1_basic_sql_commands/README
+title: Basic SQL Commands
+---
 # Basic SQL Commands
 
 This folder contains examples and problems related to fundamental SQL commands including SELECT, INSERT, UPDATE, DELETE, and basic clauses like WHERE, GROUP BY, HAVING, ORDER BY, and LIMIT.

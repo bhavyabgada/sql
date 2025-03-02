@@ -1,3 +1,8 @@
+---
+id: 0_readme
+title: SQL Learning Path
+slug: /
+---
 # SQL Learning Path
 
 This repository contains a structured set of SQL examples organized by topic, designed to help you learn SQL from basic to advanced concepts. Each file focuses on a specific topic and its subtopics, with examples drawn from a comprehensive master query.

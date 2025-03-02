@@ -1,3 +1,7 @@
+---
+id: 6_analytical_and_performance_features/README
+title: Analytical and Performance Features
+---
 # Analytical and Performance Features
 
 This folder contains examples and problems related to SQL features for query optimization and analytical processing.

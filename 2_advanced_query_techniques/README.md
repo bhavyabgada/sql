@@ -1,3 +1,7 @@
+---
+id: 2_advanced_query_techniques/README
+title: Advanced Query Techniques
+---
 # Advanced Query Techniques
 
 This folder contains examples and problems related to advanced SQL query techniques including joins, subqueries, Common Table Expressions (CTEs), window functions, and hierarchical queries.

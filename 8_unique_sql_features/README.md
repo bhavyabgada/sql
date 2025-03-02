@@ -1,3 +1,7 @@
+---
+id: 8_unique_sql_features/README
+title: Unique SQL Features
+---
 # Unique SQL Features
 
 This folder contains examples related to specialized SQL features including recursive queries, geospatial data queries, and graph queries.

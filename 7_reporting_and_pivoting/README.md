@@ -1,3 +1,7 @@
+---
+id: 7_reporting_and_pivoting/README
+title: Reporting and Pivoting
+---
 # Reporting and Pivoting
 
 This folder contains examples and problems related to SQL techniques for reporting and data transformation, including pivoting and string aggregation.

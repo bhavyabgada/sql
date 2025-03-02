@@ -1,3 +1,7 @@
+---
+id: 4_data_types_json_xml_arrays/README
+title: Data Types, JSON, XML, and Arrays
+---
 # Data Types, JSON, XML, and Arrays
 
 This folder contains examples and problems related to handling special data types in SQL, including JSON, XML, and arrays.

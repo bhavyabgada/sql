@@ -1,3 +1,7 @@
+---
+id: 5_procedural_sql/README
+title: Procedural SQL
+---
 # Procedural SQL
 
 This folder contains examples related to procedural extensions to SQL, including stored procedures, triggers, and dynamic SQL.
