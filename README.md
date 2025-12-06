@@ -54,6 +54,18 @@ This repository contains a structured set of SQL examples and practice problems 
 
 All examples are derived from a comprehensive master query (`master_query.sql`) that demonstrates many SQL features in a single file. This master query serves as a reference for how different SQL features can be combined in complex queries.
 
+## 🚀 Interview Preparation
+
+**[SQL Interview Cheatsheet](sql_interview_cheatsheet.md)** — A comprehensive 2-hour final day revision guide covering:
+- Window Functions (ROW_NUMBER, RANK, DENSE_RANK, LAG, LEAD)
+- PARTITION BY patterns
+- Common Table Expressions (CTEs)
+- All types of JOINs with solutions
+- Subqueries (IN, EXISTS, correlated)
+- Aggregations & Grouping
+- Theoretical interview questions with answers
+- Quick reference patterns for common problems
+
 ## How to Use This Repository
 
 1. Start with folder 1 and work your way through in numerical order
